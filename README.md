@@ -1,2 +1,1 @@
 # AnimalGuessingGame
-# AnimalGuessingGame
