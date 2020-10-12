@@ -6,7 +6,7 @@ DESCRIPTION
 The console will try to guess what animal the user is thinking about by asking consecutive yes/no questions to the user.
 Once the computer runs out of questions, the user wins and the console asks for a new yes/no question. 
 All questions are written into a .txt file at the end of the game and uploaded again every time the game is started. 
-For keeping track of the questions the program uses a binary tree data structure. 
+For keeping track of the questions the program uses a **binary tree data structure**. 
 
 HOW TO PLAY
 
